@@ -1,0 +1,31 @@
+
+
+
+.pp{
+  width: 100%;
+max-width: 50px;
+}
+.pa{
+width: 100%;
+  max-width: 100px;
+
+}
+.zm{
+  margin-right:  -54px;
+}
+
+.margt{
+
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.min{
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+.row{
+
+  margin-left: 0;
+  margin-right: 0;
+}
